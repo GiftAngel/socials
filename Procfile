@@ -1,0 +1,1 @@
+web: gunicorn gift_social.wsgi --log-file -
